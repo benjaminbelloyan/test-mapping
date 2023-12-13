@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BillerMachineIntegration", "BillerMachineIntegration\BillerMachineIntegration.csproj", "{46DC8620-D077-4CBE-806E-7054DE83D064}"
+Project("{6AA00BCD-F954-4FE5-A801-EE8AC5D0724D}") = "IntegrationTemplate", "IntegrationTemplate\IntegrationTemplate.csproj", "{A6803874-A94F-4129-829D-D098EF28FC9F}"
+
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46DC8620-D077-4CBE-806E-7054DE83D064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46DC8620-D077-4CBE-806E-7054DE83D064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46DC8620-D077-4CBE-806E-7054DE83D064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46DC8620-D077-4CBE-806E-7054DE83D064}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6803874-A94F-4129-829D-D098EF28FC9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6803874-A94F-4129-829D-D098EF28FC9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6803874-A94F-4129-829D-D098EF28FC9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6803874-A94F-4129-829D-D098EF28FC9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9F32722-468E-4AC0-A542-82910E4420D9}
+	EndGlobalSection
+EndGlobal
