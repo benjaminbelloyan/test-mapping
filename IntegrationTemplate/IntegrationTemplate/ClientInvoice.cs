@@ -2,7 +2,7 @@ namespace IntegrationTemplate;
 
 public record ClientInvoice(
     string Label,
-    decimal Price,
+    decimal Amount,
     DateTime DueDate,
     string BillNumber,
     string Client);

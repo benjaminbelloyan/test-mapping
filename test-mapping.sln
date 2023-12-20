@@ -4,6 +4,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BillerMachineIntegration", "BillerMachineIntegration\BillerMachineIntegration.csproj", "{46DC8620-D077-4CBE-806E-7054DE83D064}"
+EndProject
 Project("{6AA00BCD-F954-4FE5-A801-EE8AC5D0724D}") = "IntegrationTemplate", "IntegrationTemplate\IntegrationTemplate.csproj", "{A6803874-A94F-4129-829D-D098EF28FC9F}"
 
 EndProject
